@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sanya Behera</h1>
 <h3 align="center">A passionate AI/ML enthusiast dedicated to creating an impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanya-behera&label=Profile%20views&color=0e75b6&style=flat" alt="sanya-behera" /> </p>
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/sanyab1801/count.svg" alt="vistor count" height="30" width="224" /></td>
+  </tr>
+</table>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanya-behera" alt="sanya-behera" /></a> </p>
 
