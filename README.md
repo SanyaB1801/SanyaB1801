@@ -9,13 +9,26 @@
 </table>
 
   <summary><b>⚙️GitHub Analytics</b></summary>
-<a href="https://github.com/sanyab1801">
-   [![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyab1801)](https://github.com/sanyab1801/github-readme-stats)
-   <img height="155em" src="https://raw.githubusercontent.com/sanyab1801/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanya github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/sanyab1801/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanya github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/sanyab1801/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanya github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/sanyab1801/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
-     
+  
+## Overview
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyaB1801&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaB1801&layout=compact&theme=dark)
+
+## Detailed Stats
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=SanyaB1801&theme=github)
+
+## Stats
+- **Total Stars**: ![GitHub stars](https://img.shields.io/github/stars/SanyaB1801?style=social)
+- **Total Commits**: ![GitHub commits](https://img.shields.io/github/commit-activity/y/SanyaB1801?style=social)
+- **Total PRs**: ![GitHub PRs](https://img.shields.io/github/issues-pr/SanyaB1801?style=social)
+- **Total Issues**: ![GitHub issues](https://img.shields.io/github/issues/SanyaB1801?style=social)
+- **Contributed to**: 92
+
+## Commits by Hour (UTC +0.00)
+![Commits](https://github-readme-stats.vercel.app/api?username=SanyaB1801&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+## Top Languages by Repo
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaB1801&layout=compact&theme=dark&hide=css,html)
 
 
 - 🔭 I have worked on **Library Management System**
