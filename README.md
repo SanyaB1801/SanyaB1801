@@ -14,15 +14,14 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyaB1801&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaB1801&layout=compact&theme=dark)
 
-
 ## Detailed Stats
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=SanyaB1801&theme=github)
 
 ## Stats
 - **Total Stars**: ![GitHub stars](https://img.shields.io/github/stars/SanyaB1801?style=social)
-- **Total Commits**: ![GitHub commits](https://img.shields.io/github/commit-activity/y/SanyaB1801?style=social)
-- **Total PRs**: ![GitHub PRs](https://img.shields.io/github/issues-pr/SanyaB1801?style=social)
-- **Total Issues**: ![GitHub issues](https://img.shields.io/github/issues/SanyaB1801?style=social)
+- **Total Commits**: ![GitHub commits](https://img.shields.io/github/commit-activity/y/SanyaB1801?style=plastic)
+- **Total PRs**: ![GitHub PRs](https://img.shields.io/github/issues-pr/SanyaB1801?style=plastic)
+- **Total Issues**: ![GitHub issues](https://img.shields.io/github/issues/SanyaB1801?style=plastic)
 - **Contributed to**: 92
 
 ## Commits by Hour (UTC +0.00)
