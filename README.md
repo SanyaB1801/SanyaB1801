@@ -14,8 +14,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanyaB1801&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaB1801&layout=compact&theme=dark)
 
+
 ## Detailed Stats
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=SanyaB1801&theme=github)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=SanyaB1801&theme=github)
 
 ## Stats
 - **Total Stars**: ![GitHub stars](https://img.shields.io/github/stars/SanyaB1801?style=social)
