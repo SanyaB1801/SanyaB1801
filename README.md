@@ -35,9 +35,6 @@
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyab1801&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
   </p>
 
-  ## Commits by Hour (UTC +0.00)
-![Commits by Hour](https://github-readme-stats.vercel.app/api?username=SanyaB1801&show_icons=true&theme=dark&count_private=true&include_all_commits=true&card_width=500)
-
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
