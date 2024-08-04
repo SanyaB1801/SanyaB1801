@@ -9,13 +9,13 @@
 </table>
 
 <h2 align="center"><b>🚀 Projects:</b></h2>
-<div>
+
 - **[Phishing Email Detector](https://phishing-detector-mail.streamlit.app/)**: Detect phishing emails using machine learning. [Repository Link](https://github.com/SanyaB1801/Phishing-Detector)
 - **[Library Management System](https://github.com/SanyaB1801/Library-Management-System)**: A system for managing library resources.
 - **[Automated Grading System in Python](https://github.com/SanyaB1801/Automated-Grading-System)**: Developed a web application for automating the grading of assignments. Used PyTorch and BERT architecture for modeling, and Kmeans clustering for identifying common patterns. 
 - **[Data Analysis of Tech Stocks](https://github.com/SanyaB1801/Data-Analysis-of-Tech-Stocks)**: Analyzed stock information and visualized performance trends using Matplotlib and Seaborn.
 - **[Thyroid Disease Prediction](https://github.com/SanyaB1801/Thyroid-Disease-Prediction)**: Built a model with 0.98 accuracy for predicting thyroid disease using HistGradientBoostingClassifier.
-</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
