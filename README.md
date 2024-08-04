@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-<h2 align="center"><b>🚀 Projects:</b>></h2>
+<h2 align="center"><b>🚀 Projects:</b></h2>
 
 - **[Phishing Email Detector](https://phishing-detector-mail.streamlit.app/)**: Detect phishing emails using machine learning. [Repository Link](https://github.com/SanyaB1801/Phishing-Detector)
 - **[Library Management System](https://github.com/SanyaB1801/Library-Management-System)**: A system for managing library resources.
