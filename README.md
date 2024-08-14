@@ -30,12 +30,12 @@
   <p align="center">
     <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sanyab1801&show_icons=true&theme=vision-friendly-dark">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyab1801&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-    <img width="600" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&show_icons=true&theme=vision-friendly-dark"  alt="Graph of Commits" />
   </p>
   <p align="center">
   <!-- Graph of Commits -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=2077" height="210em" alt="Graph of Commits" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=vision-friendly-dark" height="210em" alt="Graph of Commits" />
   </p>
+
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
