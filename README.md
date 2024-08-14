@@ -33,7 +33,7 @@
   </p>
   <p align="center">
   <!-- Graph of Commits -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=vision-friendly-dark" height="210em" alt="Graph of Commits" />  </p>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=vision-friendly-dark" height="210em" alt="Graph of Commits" /> </p>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
