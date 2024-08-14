@@ -32,6 +32,30 @@
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyab1801&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
   </p>
 
+## :zap: My GitHub Stats 📊
+<div align="center">
+  <a href="https://github.com/sanyab1801">
+    <!-- Trophies -->
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sanyab1801&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+    <!-- Streak Counter -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyab1801&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
+    <!-- Most Used Languages -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyab1801&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
+    <!-- Contributor Stats -->
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sanyab1801&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+    <!-- Stats -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyab1801&theme=2077" height="210em" alt="Stats" />
+    <!-- Top languages by commit -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanyab1801&theme=2077" height="210em" alt="Top languages by commit" />
+    <!-- Top languages by repo -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyab1801&theme=2077" height="210em" alt="Top languages by repo" />
+    <!-- Histogram of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanyab1801&theme=2077" height="210em" alt="Histogram of Commits" />
+    <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=2077" height="210em" alt="Graph of Commits" />
+  </a>
+</div>
+
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
