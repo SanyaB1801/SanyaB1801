@@ -31,6 +31,9 @@
     <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sanyab1801&show_icons=true&theme=vision-friendly-dark">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyab1801&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
   </p>
+  <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=2077" height="210em" alt="Graph of Commits" />
+  
 
 ## :zap: My GitHub Stats 📊
 <div align="center">
@@ -39,8 +42,7 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=sanyab1801&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
     <!-- Histogram of Commits -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanyab1801&theme=2077" height="210em" alt="Histogram of Commits" />
-    <!-- Graph of Commits -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=2077" height="210em" alt="Graph of Commits" />
+    
   </a>
 </div>
 
