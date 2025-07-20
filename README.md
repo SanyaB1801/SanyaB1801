@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanya Behera</h1>
 <h3 align="center">A passionate AI/ML enthusiast dedicated to creating an impact.</h3>
 
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/sanyab1801/count.svg" alt="vistor count" height="30" width="224" /></td>
-  </tr>
-</table>
-
 <h2 align="center"><b>🚀 Projects:</b></h2>
 
 - **[Phishing Email Detector](https://phishing-detector-mail.streamlit.app/)**: Detect phishing emails using machine learning. [Repository Link](https://github.com/SanyaB1801/Phishing-Detector)
@@ -34,16 +27,6 @@
   <p align="center">
   <!-- Graph of Commits -->
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyab1801&theme=github_dark" height="210em" alt="Graph of Commits" /> </p>
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
