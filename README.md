@@ -4,6 +4,11 @@
 <h2 align="center"><b>🚀 Projects</b></h2>
 
 <ul>
+  <!-- Meetbot  -->
+  <li>
+    <b><a href="https://github.com/SanyaB1801/Meetbot">Meetbot</a></b> — 
+    Built a full-stack AI meeting assistant that automates transcription, summarization, task extraction, scheduling, and live meeting participation using Groq Whisper, Gemini, Flask, React, and Firebase.
+  </li>
 
   <!-- SEO Intelligence Tool -->
   <li>
